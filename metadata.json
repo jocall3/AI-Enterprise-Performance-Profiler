@@ -1,0 +1,7 @@
+{
+  "name": "AI Enterprise Performance Profiler",
+  "description": "A comprehensive performance analysis suite with AI-powered diagnostics, bundle visualization, and real-time runtime monitoring.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
